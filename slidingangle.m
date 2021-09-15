@@ -2,7 +2,7 @@
 % Teeranan Nongnual
 % teeranan.no@buu.ac.th
 % Faculty of Science, Burapha University, THAILAND
-% Version 2.1 (August 2021)
+% Version 2.2 (September 2021)
 % https://github.com/teeranann/slidingangle
 
 % Citations
